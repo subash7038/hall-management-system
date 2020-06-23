@@ -1,0 +1,15 @@
+.form {
+  width: 90vw;
+  margin: auto;
+}
+.label {
+  text-align: right;
+}
+.button {
+  margin: auto;
+}
+@media only screen and (max-width: 576px) {
+  .label {
+    text-align: left;
+  }
+}

@@ -1,0 +1,13 @@
+.gbtn {
+  background-color: transparent;
+  border: none;
+  color: #111;
+  font-style: bold;
+  font-weight: 900;
+  text-shadow: 2px 2px 5px #fff;
+}
+
+.gbtn:hover {
+  font-weight: 400;
+  color: #ff9800;
+}
